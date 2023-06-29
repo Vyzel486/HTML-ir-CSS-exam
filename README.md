@@ -1,3 +1,3 @@
 # HTML&CSS Exam
 
-![./images/hero.jpg]
+![Hero image](./images/hero.jpg)
